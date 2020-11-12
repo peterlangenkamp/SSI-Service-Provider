@@ -9,9 +9,9 @@ The files below provide a description of the REST api for interacting with the s
 - [Credential Issue Request](./rest-api/credential-issue-request.md)
 - [Credential Verify Request](./rest-api/credential-verify-request.md)
 - [Register Credential Type (Jolocom)](./rest-api/register-credential-type-jolocom.md)
-- [Register Organization's Credential Types](./rest-api/register-organizations-credential-types.md)
+- [Register Organization's Credential Types](./rest-api/register-organizations-credential-type.md)
 - [Register Organization](./rest-api/register-organization.md)
-- [Registered Credential Type (Jolocom)](./rest-api/registered-credential-type-jolocom.md)
+- [Registered Credential Type (Jolocom)](./rest-api/registered-credential-types-jolocom.md)
 - [Registered Organization's Credential Types](./rest-api/registered-organizations-credential-types.md)
 - [Registered Organizations](./rest-api/registered-organizations.md)
 

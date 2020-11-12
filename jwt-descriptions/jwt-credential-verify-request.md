@@ -10,7 +10,7 @@ The JWT should encode a JSON object with the following params. NOTE: The JWT sho
     The "aud" (audience) claim identifies the recipients that the JWT is intended for (currently hardcoded as `"ssi-service-provider"`).
 
 -  ## `sub=[string]`
-    The "sub" (subject) of the jwt. Should be `"credential-issue-request"`.
+    The "sub" (subject) of the jwt. Should be `"credential-verify-request"`.
 
 -  ## `jti*=[string]`
     *\*Currently added automatically (randomly generated) when [creating a jwt](../rest-api/create-jwt.md), but will be required in the future, maybe with a different name.*

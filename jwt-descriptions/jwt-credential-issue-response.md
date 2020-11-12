@@ -1,4 +1,4 @@
-# Credential Verify Response
+# Credential Issue Response
 The JWT returned to the callbackUrl specified in the [request](./jwt-credential-issue-request) encodes a JSON object with the following params. 
 
 -  ## `requestId=[string]`
