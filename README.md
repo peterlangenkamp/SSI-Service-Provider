@@ -7,7 +7,7 @@ Similar to a payment service provider allowing webshops to easilly support payme
 
 ![SSI as a Service](./images/SSIasaService.png)
 
-Sounds interesting? Or have any questions? Please let us know and we'll help you get up and running with our SSI service, or discuss your needs for credentials.
+Sounds interesting? Or have any questions? Please [let us know](mailto:peter.langenkamp@tno.nl&cc=michiel.stornebrink@tno.nl) and we'll help you get up and running with our SSI service, or discuss your needs for credentials.
 
 ## Getting started
 For information on how to integrate with our service, please contact [Peter Langenkamp](mailto:peter.langenkamp@tno.nl&cc=michiel.stornebrink@tno.nl), or refer to our documentation [here](./documentation.md).
