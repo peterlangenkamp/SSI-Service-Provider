@@ -7,12 +7,8 @@ Similar to a payment service provider allowing webshops to easilly support payme
 
 Sounds interesting? Or have any questions? Please let us know and we'll help you get up and running with our SSI service, or discuss your needs for credentials.
 
-&nbsp;
-
 ## Getting started
 For information on how to integrate with our service, please contact [Peter Langenkamp](mailto:peter.langenkamp@tno.nl&cc=michiel.stornebrink@tno.nl), or refer to our documentation [here](./documentation.md).
-
-&nbsp;
 
 ## Try it out!
 To quickly try out different aspects of the service, we encourage you to go to the utils page of our service. Here, you can register a new organization, define credential types, and manually create issue and verify requests for testing purposes. Detailed information on using these utilities can be found [here](./service-instructions/utils-overview.md). If you know what you are doing, you can go to the issue or verify page directly.
