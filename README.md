@@ -3,7 +3,9 @@ Do you want to issue or verify credentials, but lack either the time, manpower, 
 
 > The SSI Service Provider strives to improve the usability of SSI in real life by providing basic functionality that assists in issuing and verifying credentials to and from multiple wallets.
 
-Similar to a payment service provider allowing webshops to easilly support payment with MasterCard, Visa, PayPal, iDeal, bitcoin, and you name it, our objective is to faciliatate issuing and verifying to and from any of the popular SSI wallets. We currently support IRMA, Jolocom, and Hyperledger Indy, with more to come.
+Similar to a payment service provider allowing webshops to easilly support payment with MasterCard, Visa, PayPal, iDeal, bitcoin, and you name it, our objective is to faciliatate issuing and verifying to and from any of the popular SSI wallets. We currently support IRMA, Jolocom, and (almost done!) Hyperledger Indy, with more to come.
+
+![SSI as a Service](./images/SSIasaService.png)
 
 Sounds interesting? Or have any questions? Please let us know and we'll help you get up and running with our SSI service, or discuss your needs for credentials.
 
